@@ -49,7 +49,7 @@ bash cleanup.sh
 ```
 <p>The cam files and saved location will also be removed.</p>
 
-##
+## Run Cloud Shell
 
 <p align="left">
   <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/nusaibnull/CamPhish.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
